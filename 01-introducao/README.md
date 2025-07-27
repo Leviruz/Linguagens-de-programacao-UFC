@@ -1,11 +1,10 @@
-# 🧠 Desafio 01 – Introdução às Linguagens de Programação
+# Desafio 01 – Introdução às Linguagens de Programação
 
 A programação teve diversos marcos na sua evolução, e a linha do tempo a seguir, cita as principais linguagens e detalhes sobre elas
 
 ![Linha do tempo das linguagens de programação](./linguagens.svg)
 
-
-## 🕰️ Linha do Tempo da Evolução das Linguagens de Programação
+## Linha do Tempo da Evolução das Linguagens de Programação
 
 | Ano      | Linguagem  | Descrição                                                                                                                   |
 | -------- | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
