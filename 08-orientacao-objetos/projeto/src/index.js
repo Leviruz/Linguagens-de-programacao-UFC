@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const Car_1 = require("./Car");
+const Bike_1 = require("./Bike");
+const myCar = new Car_1.Car("Toyota", "Corolla", 180, 4);
+const myBike = new Bike_1.Bike("Trek", "Domane", 30, true);
+myCar.move();
+myCar.openDoors();
+myBike.move();
+myBike.ringBell();
